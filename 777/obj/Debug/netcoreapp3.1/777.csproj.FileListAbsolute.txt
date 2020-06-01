@@ -1,0 +1,33 @@
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.exe
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.deps.json
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.json
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.dev.json
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\source\repos\777\777\bin\Debug\netcoreapp3.1\777.pdb
+C:\Users\karti\source\repos\777\777\obj\Debug\netcoreapp3.1\777.csprojAssemblyReference.cache
+C:\Users\karti\source\repos\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfoInputs.cache
+C:\Users\karti\source\repos\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfo.cs
+C:\Users\karti\source\repos\777\777\obj\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\source\repos\777\777\obj\Debug\netcoreapp3.1\777.pdb
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.exe
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.deps.json
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.json
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.dev.json
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\bin\Debug\netcoreapp3.1\777.pdb
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\obj\Debug\netcoreapp3.1\777.csprojAssemblyReference.cache
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfoInputs.cache
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfo.cs
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\obj\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\Desktop\лаб 7 Курилович\777\777\obj\Debug\netcoreapp3.1\777.pdb
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\obj\Debug\netcoreapp3.1\777.csprojAssemblyReference.cache
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfoInputs.cache
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\obj\Debug\netcoreapp3.1\777.AssemblyInfo.cs
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\obj\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\obj\Debug\netcoreapp3.1\777.pdb
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.exe
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.deps.json
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.json
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.runtimeconfig.dev.json
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.dll
+C:\Users\karti\Desktop\лаб 7 Курилович 953504\777\777\bin\Debug\netcoreapp3.1\777.pdb
